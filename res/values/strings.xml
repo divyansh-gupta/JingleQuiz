@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JingleQuiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="blue">#00aff0</color>
+    <color name="red">#db4437</color>
+    <color name="yellow">#ffff00</color>
+    <color name="orange">#f04100</color>
+
+</resources>
